@@ -1,0 +1,18 @@
+[
+  {
+    "package": "LSX",
+    "oncran": true
+  },
+  {
+    "package": "newsmap",
+    "oncran": true
+  },
+  {
+    "package": "proxyC",
+    "oncran": true
+  },
+  {
+    "package": "seededlda",
+    "oncran": true
+  }
+]
