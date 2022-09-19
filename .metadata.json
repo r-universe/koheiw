@@ -1,5 +1,9 @@
 [
   {
+    "package": "LSX",
+    "oncran": true
+  },
+  {
     "package": "newsmap",
     "oncran": true
   },
