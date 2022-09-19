@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "LSX"]
-	path = LSX
-	url = https://github.com/koheiw/lsx
-	shallow = true
-	registered = true
 [submodule "newsmap"]
 	path = newsmap
 	url = https://github.com/koheiw/newsmap
