@@ -1,6 +1,10 @@
 [
   {
-    "package": "LSX",
+    "package": "proxyC",
+    "oncran": true
+  },
+  {
+    "package": "seededlda",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "proxyC",
-    "oncran": true
-  },
-  {
-    "package": "seededlda",
+    "package": "LSX",
     "oncran": true
   }
 ]

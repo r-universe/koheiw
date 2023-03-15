@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "LSX"]
-	path = LSX
-	url = https://github.com/koheiw/lsx
-	shallow = true
-	registered = true
-[submodule "newsmap"]
-	path = newsmap
-	url = https://github.com/koheiw/newsmap
-	shallow = true
-	registered = true
 [submodule "proxyC"]
 	path = proxyC
 	url = https://github.com/koheiw/proxyc
@@ -21,5 +11,15 @@
 [submodule "seededlda"]
 	path = seededlda
 	url = https://github.com/koheiw/seededlda
+	shallow = true
+	registered = true
+[submodule "newsmap"]
+	path = newsmap
+	url = https://github.com/koheiw/newsmap
+	shallow = true
+	registered = true
+[submodule "LSX"]
+	path = LSX
+	url = https://github.com/koheiw/lsx
 	shallow = true
 	registered = true
