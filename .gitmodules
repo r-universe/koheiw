@@ -14,3 +14,6 @@
 [submodule "seededlda"]
 	path = seededlda
 	url = https://github.com/koheiw/seededlda
+[submodule "wordmap"]
+	path = wordmap
+	url = https://github.com/koheiw/wordmap
