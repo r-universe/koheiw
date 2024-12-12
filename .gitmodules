@@ -17,3 +17,6 @@
 [submodule "wordmap"]
 	path = wordmap
 	url = https://github.com/koheiw/wordmap
+[submodule "wordvector"]
+	path = wordvector
+	url = https://github.com/koheiw/wordvector
