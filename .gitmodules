@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GMTM"]
+	path = GMTM
+	url = https://github.com/koheiw/gmtm
 [submodule "LSX"]
 	path = LSX
 	url = https://github.com/koheiw/lsx
